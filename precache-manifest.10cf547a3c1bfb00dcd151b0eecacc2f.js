@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "67fe46424f96f1decf31",
+    "revision": "c82c1cf10559e824a6a1",
     "url": "/static/css/main.c05897d5.chunk.css"
   },
   {
-    "revision": "67fe46424f96f1decf31",
-    "url": "/static/js/main.2bf882a7.chunk.js"
+    "revision": "c82c1cf10559e824a6a1",
+    "url": "/static/js/main.e6a07eb2.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/static/media/frappucino.c8dc9194.jpg"
   },
   {
-    "revision": "3605137c99c9a5d5e6d7d3fc89a85512",
+    "revision": "06abde232a20dc21e6fce309e7db0171",
     "url": "/index.html"
   }
 ];
