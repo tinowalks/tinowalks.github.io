@@ -1,0 +1,19 @@
+{
+  "main.css": "/static/css/main.9cb1cd32.chunk.css",
+  "main.js": "/static/js/main.8f174135.chunk.js",
+  "main.js.map": "/static/js/main.8f174135.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+  "static/js/2.ac46ad5b.chunk.js": "/static/js/2.ac46ad5b.chunk.js",
+  "static/js/2.ac46ad5b.chunk.js.map": "/static/js/2.ac46ad5b.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.7a79c7c77c5fc477c28aca2c6baf5652.js": "/precache-manifest.7a79c7c77c5fc477c28aca2c6baf5652.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/main.9cb1cd32.chunk.css.map": "/static/css/main.9cb1cd32.chunk.css.map",
+  "static/media/catchingFire.png": "/static/media/catchingFire.3e173036.png",
+  "static/media/compass.png": "/static/media/compass.c10dcea6.png",
+  "static/media/frappucino.jpg": "/static/media/frappucino.c8dc9194.jpg",
+  "static/media/frozenYogurt.png": "/static/media/frozenYogurt.554584d7.png",
+  "static/media/hourglass.svg": "/static/media/hourglass.71854460.svg",
+  "static/media/trophy.png": "/static/media/trophy.879e8a75.png"
+}
