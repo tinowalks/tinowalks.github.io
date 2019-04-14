@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "c82c1cf10559e824a6a1",
+    "revision": "f0f4de040728a484a156",
     "url": "/static/css/main.c05897d5.chunk.css"
   },
   {
-    "revision": "c82c1cf10559e824a6a1",
-    "url": "/static/js/main.e6a07eb2.chunk.js"
+    "revision": "f0f4de040728a484a156",
+    "url": "/static/js/main.804323ee.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -36,11 +36,11 @@ self.__precacheManifest = [
     "url": "/static/media/frozenYogurt.554584d7.png"
   },
   {
-    "revision": "c8dc9194e03b2d943833c35e9eb02a4b",
-    "url": "/static/media/frappucino.c8dc9194.jpg"
+    "revision": "4aa9ffd9cf6647e2c1ab63d254dce79f",
+    "url": "/static/media/frappuccino.4aa9ffd9.png"
   },
   {
-    "revision": "06abde232a20dc21e6fce309e7db0171",
+    "revision": "03968a324ea57a376ddfde63ceb43f6d",
     "url": "/index.html"
   }
 ];
